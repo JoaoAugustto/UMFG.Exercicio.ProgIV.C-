@@ -1,0 +1,15 @@
+C:\Users\facec.lab04\source\repos\Umfg.Exercicio01.ProgIV\Umfg.Exercicio02.ProgIV\bin\Debug\net7.0\Umfg.Exercicio02.ProgIV.exe
+C:\Users\facec.lab04\source\repos\Umfg.Exercicio01.ProgIV\Umfg.Exercicio02.ProgIV\bin\Debug\net7.0\Umfg.Exercicio02.ProgIV.deps.json
+C:\Users\facec.lab04\source\repos\Umfg.Exercicio01.ProgIV\Umfg.Exercicio02.ProgIV\bin\Debug\net7.0\Umfg.Exercicio02.ProgIV.runtimeconfig.json
+C:\Users\facec.lab04\source\repos\Umfg.Exercicio01.ProgIV\Umfg.Exercicio02.ProgIV\bin\Debug\net7.0\Umfg.Exercicio02.ProgIV.dll
+C:\Users\facec.lab04\source\repos\Umfg.Exercicio01.ProgIV\Umfg.Exercicio02.ProgIV\bin\Debug\net7.0\Umfg.Exercicio02.ProgIV.pdb
+C:\Users\facec.lab04\source\repos\Umfg.Exercicio01.ProgIV\Umfg.Exercicio02.ProgIV\obj\Debug\net7.0\Umfg.Exercicio02.ProgIV.csproj.AssemblyReference.cache
+C:\Users\facec.lab04\source\repos\Umfg.Exercicio01.ProgIV\Umfg.Exercicio02.ProgIV\obj\Debug\net7.0\Umfg.Exercicio02.ProgIV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facec.lab04\source\repos\Umfg.Exercicio01.ProgIV\Umfg.Exercicio02.ProgIV\obj\Debug\net7.0\Umfg.Exercicio02.ProgIV.AssemblyInfoInputs.cache
+C:\Users\facec.lab04\source\repos\Umfg.Exercicio01.ProgIV\Umfg.Exercicio02.ProgIV\obj\Debug\net7.0\Umfg.Exercicio02.ProgIV.AssemblyInfo.cs
+C:\Users\facec.lab04\source\repos\Umfg.Exercicio01.ProgIV\Umfg.Exercicio02.ProgIV\obj\Debug\net7.0\Umfg.Exercicio02.ProgIV.csproj.CoreCompileInputs.cache
+C:\Users\facec.lab04\source\repos\Umfg.Exercicio01.ProgIV\Umfg.Exercicio02.ProgIV\obj\Debug\net7.0\Umfg.Exercicio02.ProgIV.dll
+C:\Users\facec.lab04\source\repos\Umfg.Exercicio01.ProgIV\Umfg.Exercicio02.ProgIV\obj\Debug\net7.0\refint\Umfg.Exercicio02.ProgIV.dll
+C:\Users\facec.lab04\source\repos\Umfg.Exercicio01.ProgIV\Umfg.Exercicio02.ProgIV\obj\Debug\net7.0\Umfg.Exercicio02.ProgIV.pdb
+C:\Users\facec.lab04\source\repos\Umfg.Exercicio01.ProgIV\Umfg.Exercicio02.ProgIV\obj\Debug\net7.0\Umfg.Exercicio02.ProgIV.genruntimeconfig.cache
+C:\Users\facec.lab04\source\repos\Umfg.Exercicio01.ProgIV\Umfg.Exercicio02.ProgIV\obj\Debug\net7.0\ref\Umfg.Exercicio02.ProgIV.dll
